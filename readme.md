@@ -2,7 +2,7 @@ Spring Dataset:
 
 1. run 'Regular Spring Dataset Generator.py' to generate training and test samples.
 2. run 'Regular_Spring.py' to train CTGRU, RIM, NeuralCDE, DNS.
-3. to train Smooth_DNS, we need to run 'smooth_data.py' first and then run 'smooth_regular.py'
+3. to train Smooth_DNS, we need to run 'smooth_data.py' first and then run 'smooth_regular.py'.
 
 IrrSpring Dataset:
 
